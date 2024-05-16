@@ -7,6 +7,3 @@ npm run dev
 
 ```
 
-or
-
-
