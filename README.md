@@ -15,4 +15,4 @@ Port :
 http://localhost:3000/list?page=1
 
 ```
-![](https://github.com/Peranutboonyakit/public/GIF.gif)
+![GIF](./public/GIF.gif)
