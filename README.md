@@ -15,3 +15,4 @@ Port :
 http://localhost:3000/list?page=1
 
 ```
+![GIF](./public/GIF.gif)
